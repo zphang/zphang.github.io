@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jason Phang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jason Phang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://zphang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/test_pages" # the subpath of your site, e.g. "/blog"
+repository               : "zphang/test_pages"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : zphang
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Jason Phang"
+  avatar           : "jasonphang.png"
+  bio              : "Deep Learning Researcher; MS Student, NYU Center for Data Science"
+  location         : "New York"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=hxbdOuoAAAAJ&hl=en"
+  email            : "email@jasonphang.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zphang"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "jason-phang"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "zhansheng"
   vine             :
   weibo            :
   xing             :
@@ -196,8 +196,6 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -212,8 +210,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -221,8 +217,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -230,8 +224,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
