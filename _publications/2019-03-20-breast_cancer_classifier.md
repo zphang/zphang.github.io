@@ -2,7 +2,7 @@
 title: "Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening"
 collection: publications
 permalink: /publication/2019-03-20-breast_cancer_classifier
-excerpt: '<p>[<a href="https://arxiv.org/abs/1903.08297" style="color:#51ADC8;">Paper</a>] [<a href="https://github.com/nyukat/breast_cancer_classifier" style="color:#51ADC8;">Code</a>] [<a href="/2019-03-20-breast_cancer_classifier" style="color:#51ADC8;">Abstract</a>]<br /><u>Citation</u>: Nan Wu, Jason Phang, Jungkyu Park, Yiqiu Shen, Zhe Huang, Masha Zorin, Stanisław Jastrzębski, Thibault Févry, Joe Katsnelson, Eric Kim, Stacey Wolfson, Ujas Parikh, Sushma Gaddam, Leng Leng Young Lin, Kara Ho, Joshua D. Weinstein, Beatriu Reig, Yiming Gao, Hildegard Toth, Kristine Pysarenko, Alana Lewin, Jiyon Lee, Krystal Airola, Eralda Mema, Stephanie Chung, Esther Hwang, Naziya Samreen, S. Gene Kim, Laura Heacock, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <b>Deep Neural Networks Improve Radiologists&apos; Performance in Breast Cancer Screening</b>. <i>Preprint. 2019.</i></p>'
+excerpt: '<p>[<a href="https://arxiv.org/abs/1903.08297" style="color:#51ADC8;">Paper</a>] [<a href="https://github.com/nyukat/breast_cancer_classifier" style="color:#51ADC8;">Code</a>] - <a href="/publication/2019-03-20-breast_cancer_classifier" style="color:#51ADC8;">Abstract</a><br /><u>Citation</u>: Nan Wu, Jason Phang, Jungkyu Park, Yiqiu Shen, Zhe Huang, Masha Zorin, Stanisław Jastrzębski, Thibault Févry, Joe Katsnelson, Eric Kim, Stacey Wolfson, Ujas Parikh, Sushma Gaddam, Leng Leng Young Lin, Kara Ho, Joshua D. Weinstein, Beatriu Reig, Yiming Gao, Hildegard Toth, Kristine Pysarenko, Alana Lewin, Jiyon Lee, Krystal Airola, Eralda Mema, Stephanie Chung, Esther Hwang, Naziya Samreen, S. Gene Kim, Laura Heacock, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <b>Deep Neural Networks Improve Radiologists&apos; Performance in Breast Cancer Screening</b>. <i>Preprint. 2019.</i></p>'
 date: 2019-03-20
 venue: 'Preprint'
 ---
@@ -11,6 +11,5 @@ We present a deep convolutional neural network for breast cancer screening exam 
 
 [<a href="https://arxiv.org/abs/1903.08297">Paper</a>]
 [<a href="https://github.com/nyukat/breast_cancer_classifier">Code</a>]
-[<a href="https://medium.com/@NYUDataScience/unsupervised-sentence-compression-using-denoising-auto-encoders-6c979abd9d4f">NYU Blog Post</a>]
 
 <u>Citation</u>: Nan Wu, Jason Phang, Jungkyu Park, Yiqiu Shen, Zhe Huang, Masha Zorin, Stanisław Jastrzębski, Thibault Févry, Joe Katsnelson, Eric Kim, Stacey Wolfson, Ujas Parikh, Sushma Gaddam, Leng Leng Young Lin, Kara Ho, Joshua D. Weinstein, Beatriu Reig, Yiming Gao, Hildegard Toth, Kristine Pysarenko, Alana Lewin, Jiyon Lee, Krystal Airola, Eralda Mema, Stephanie Chung, Esther Hwang, Naziya Samreen, S. Gene Kim, Laura Heacock, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <b>Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening</b>. <i>Preprint. 2019.</i> 
