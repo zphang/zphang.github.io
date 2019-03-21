@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Understanding (Fall 2019)"
+title: "Natural Language Understanding (Spring 2019)"
 collection: teaching
 type: "Graduate course, Grader"
 permalink: /teaching/2019-spring-teaching-nlu
