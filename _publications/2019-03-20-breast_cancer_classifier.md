@@ -1,5 +1,5 @@
 ---
-title: "Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening"
+title: "Deep Neural Networks Improve Radiologists\' Performance in Breast Cancer Screening"
 collection: publications
 permalink: /publication/2019-03-20-breast_cancer_classifier
 excerpt: '<p>[<a href="https://arxiv.org/abs/1809.02669" style="color:#51ADC8;">Paper</a>] [<a href="https://github.com/zphang/usc_dae/" style="color:#51ADC8;">Code</a>] [<a href="files/poster_dae.pdf" style="color:#51ADC8;">Poster</a>] [<a href="https://medium.com/@NYUDataScience/unsupervised-sentence-compression-using-denoising-auto-encoders-6c979abd9d4f" style="color:#51ADC8;">NYU Blog Post</a>]<br />Citation: Thibault Févry and Jason Phang. <b>Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening</b>. <i>Preprint. 2018.</i></p>'
