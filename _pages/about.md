@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Masters student at the NYU Center for Data Science.
+I am a second-year Masters student at the NYU Center for Data Science. 
 
 I am interested in studying interpretability methods for deep learning models. I am currently working with [Krzysztof Geras](https://cs.nyu.edu/~kgeras/) on deep learning methods for breast cancer detection and [Sam Bowman](https://www.nyu.edu/projects/bowman/) on natural language understanding.
 
