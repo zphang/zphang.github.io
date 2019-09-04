@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming PhD student at the NYU Center for Data Science. 
+I am a first-year PhD student at the NYU Center for Data Science. 
 
-I am interested in studying interpretability methods for deep learning models. I am currently working with [Krzysztof Geras](https://cs.nyu.edu/~kgeras/) on deep learning methods for breast cancer detection and [Sam Bowman](https://www.nyu.edu/projects/bowman/) on natural language understanding.
+I am currently working with [Sam Bowman](https://www.nyu.edu/projects/bowman/) on natural language understanding, and [Krzysztof Geras](https://cs.nyu.edu/~kgeras/) and [Kyunghyun Cho](www.kyunghyuncho.me) on deep learning methods for breast cancer detection. 
 
 I graduated from the University of Chicago in 2015, where I majored in Mathematics, Statistics and Economics. I obtained my MS in Data Science at the NYU Center for Data Science in 2019. 
 
