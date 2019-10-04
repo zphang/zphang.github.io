@@ -2,7 +2,7 @@
 title: "Improving localization-based approaches for breast cancer screening exam classification"
 collection: publications
 permalink: /publication/2019-08-01-breastloc
-excerpt: '<p>[<a href="https://arxiv.org/abs/1908.00615" style="color:#51ADC8;">Paper</a>] <a href="/publication/2019-08-01-breastloc" style="color:#51ADC8;">Abstract</a><br /><u>Citation</u>: Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <b> Improving localization-based approaches for breast cancer screening exam classification </b>. <i>Extended Abstract, MIDL. 2019.</i></p>'
+excerpt: '<p>[<a href="https://arxiv.org/abs/1908.00615" style="color:#51ADC8;">Paper</a>] <a href="/publication/2019-08-01-breastloc" style="color:#51ADC8;">Abstract</a><br /><u>Citation</u>: Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <b>Improving localization-based approaches for breast cancer screening exam classification</b>. <i>Extended Abstract, MIDL. 2019.</i></p>'
 date: 2019-08-01
 venue: 'MIDL 2019'
 ---
