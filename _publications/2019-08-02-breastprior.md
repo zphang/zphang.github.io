@@ -2,7 +2,7 @@
 title: "Screening Mammogram Classification with Prior Exams"
 collection: publications
 permalink: /publication/2019-08-02-breastprior
-excerpt: '<p>[<a href="https://arxiv.org/abs/1907.13057" style="color:#51ADC8;">Paper</a>] <a href="/publication/2019-08-02-breastprior" style="color:#51ADC8;">Abstract</a><br /><u>Citation</u>: Jungkyu Park, Jason Phang, Yiqiu Shen, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <b>Screening Mammogram Classification with Prior Exams</b>. <i>Extended Abstract, MIDL. 2019.</i></p>'
+excerpt: '<p>[<a href="https://arxiv.org/abs/1907.13057" style="color:#51ADC8;">Paper</a>] - <a href="/publication/2019-08-02-breastprior" style="color:#51ADC8;">Abstract</a><br /><u>Citation</u>: Jungkyu Park, Jason Phang, Yiqiu Shen, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <b>Screening Mammogram Classification with Prior Exams</b>. <i>Extended Abstract, MIDL. 2019.</i></p>'
 date: 2019-08-02
 venue: 'MIDL 2019'
 ---
