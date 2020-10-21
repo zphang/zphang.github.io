@@ -2,7 +2,7 @@
 title: "Improving localization-based approaches for breast cancer screening exam classification"
 collection: publications
 permalink: /publication/2019-08-01-breastloc
-excerpt: '<p>[<a href="https://arxiv.org/abs/1908.00615" style="color:#51ADC8;">Paper</a>] - <a href="/publication/2019-08-01-breastloc" style="color:#51ADC8;">Abstract</a><br /><span style="font-family:Courier New">Citation</span>: Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <u>Improving localization-based approaches for breast cancer screening exam classification</u>. <i>Extended Abstract, MIDL. 2019.</i></p>'
+excerpt: '<p>[<a href="https://arxiv.org/abs/1908.00615" style="color:#51ADC8;">Paper</a>] - <a href="/publication/2019-08-01-breastloc" style="color:#51ADC8;">Abstract</a><br /><span style="font-family:Courier New">Citation</span>: Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <u>Improving localization-based approaches for breast cancer screening exam classification</u>. <i>Extended Abstract, MIDL, 2019.</i></p>'
 date: 2019-08-01
 venue: 'MIDL 2019'
 ---
@@ -11,4 +11,4 @@ We trained and evaluated a localization-based deep CNN for breast cancer screeni
 
 [<a href="https://arxiv.org/abs/1908.00615">Paper</a>]
 
-<span style="font-family:Courier New">Citation</span>: Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <u> Improving localization-based approaches for breast cancer screening exam classification</u>. <i>Extended Abstract, MIDL. 2019.</i>
+<span style="font-family:Courier New">Citation</span>: Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <u> Improving localization-based approaches for breast cancer screening exam classification</u>. <i>Extended Abstract, MIDL, 2019.</i>
