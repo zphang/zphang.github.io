@@ -1,5 +1,5 @@
 ---
-title: "jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models"
+title: "Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?"
 collection: publications
 permalink: /publication/2020-05-01-taskmaster
 excerpt: '<p>[<a href="https://www.aclweb.org/anthology/2020.acl-main.467/" style="color:#51ADC8;">Paper</a>] - <a href="/publication/2020-05-01-taskmaster" style="color:#51ADC8;">Abstract</a><br /><span style="font-family:Courier New">Citation</span>: Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut, Xiaoyi Zhang, Richard Yuanzhe Pang, Clara Vania, Katharina Kann, Samuel R. Bowman. <u>Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?</u>. <i>Proceedings of ACL, 2020.</i></p>'
@@ -11,4 +11,4 @@ While pretrained models such as BERT have shown large gains across natural langu
 
 [<a href="https://www.aclweb.org/anthology/2020.acl-main.467/">Paper</a>]
 
-<span style="font-family:Courier New">Citation</span>: Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut, Xiaoyi Zhang, Richard Yuanzhe Pang, Clara Vania, Katharina Kann, Samuel R. Bowman. Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?</u>. <i>Proceedings of ACL, 2020.</i> 
+<span style="font-family:Courier New">Citation</span>: Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut, Xiaoyi Zhang, Richard Yuanzhe Pang, Clara Vania, Katharina Kann, Samuel R. Bowman. <u>Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?</u>. <i>Proceedings of ACL, 2020.</i> 
