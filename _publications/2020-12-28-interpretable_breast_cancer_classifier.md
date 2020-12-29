@@ -1,0 +1,15 @@
+---
+title: "An interpretable classifier for high-resolution breast cancer screening images utilizing weakly supervised localization"
+collection: publications
+permalink: /publication/2020-12-28-interpretable_breast_cancer_classifier
+excerpt: '<p>[<a href="https://www.sciencedirect.com/science/article/pii/S1361841520302723" style="color:#51ADC8;">Paper</a>] [<a href="https://github.com/nyukat/GMIC" style="color:#51ADC8;">Code</a>] - <a href="/publication/2020-12-28-interpretable_breast_cancer_classifier" style="color:#51ADC8;">Abstract</a><br /><span style="font-family:Courier New">Citation</span>: Yiqiu Shen, Nan Wu, Jason Phang, Jungkyu Park, Yiqiu Shen, Kangning Liu, Sudarshini Tyagi, Laura Heacock, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <u>An interpretable classifier for high-resolution breast cancer screening images utilizing weakly supervised localization</u>. <i>Medical Image Analysis, Vol. 68, 2021</i></p>'
+date: 2019-09-20
+venue: 'Medical Image Analysis'
+---
+
+Medical images differ from natural images in significantly higher resolutions and smaller regions of interest. Because of these differences, neural network architectures that work well for natural images might not be applicable to medical image analysis. In this work, we propose a novel neural network model to address these unique properties of medical images. This model first uses a low-capacity, yet memory-efficient, network on the whole image to identify the most informative regions. It then applies another higher-capacity network to collect details from chosen regions. Finally, it employs a fusion module that aggregates global and local information to make a prediction. While existing methods often require lesion segmentation during training, our model is trained with only image-level labels and can generate pixel-level saliency maps indicating possible malignant findings. We apply the model to screening mammography interpretation: predicting the presence or absence of benign and malignant lesions. On the NYU Breast Cancer Screening Dataset, our model outperforms (AUC = 0.93) ResNet-34 and Faster R-CNN in classifying breasts with malignant findings. On the CBIS-DDSM dataset, our model achieves performance (AUC = 0.858) on par with state-of-the-art approaches. Compared to ResNet-34, our model is 4.1x faster for inference while using 78.4% less GPU memory. Furthermore, we demonstrate, in a reader study, that our model surpasses radiologist-level AUC by a margin of 0.11.
+
+[<a href="https://www.sciencedirect.com/science/article/pii/S1361841520302723">Paper</a>]
+[<a href="https://github.com/nyukat/GMIC">Code</a>]
+
+<span style="font-family:Courier New">Citation</span>: Yiqiu Shen, Nan Wu, Jason Phang, Jungkyu Park, Yiqiu Shen, Kangning Liu, Sudarshini Tyagi, Laura Heacock, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <u>An interpretable classifier for high-resolution breast cancer screening images utilizing weakly supervised localization</u>. <i>Medical Image Analysis, Vol. 68, 2019.</i> 
