@@ -3,7 +3,7 @@ title: "An interpretable classifier for high-resolution breast cancer screening 
 collection: publications
 permalink: /publication/2020-12-28-interpretable_breast_cancer_classifier
 excerpt: '<p>[<a href="https://www.sciencedirect.com/science/article/pii/S1361841520302723" style="color:#51ADC8;">Paper</a>] [<a href="https://github.com/nyukat/GMIC" style="color:#51ADC8;">Code</a>] - <a href="/publication/2020-12-28-interpretable_breast_cancer_classifier" style="color:#51ADC8;">Abstract</a><br /><span style="font-family:Courier New">Citation</span>: Yiqiu Shen, Nan Wu, Jason Phang, Jungkyu Park, Yiqiu Shen, Kangning Liu, Sudarshini Tyagi, Laura Heacock, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras. <u>An interpretable classifier for high-resolution breast cancer screening images utilizing weakly supervised localization</u>. <i>Medical Image Analysis, Vol. 68, 2021</i></p>'
-date: 2019-09-20
+date: 2020-12-28
 venue: 'Medical Image Analysis'
 ---
 
