@@ -1,0 +1,13 @@
+---
+title: "What Language Model to Train if You Have One Million GPU Hours?"
+collection: publications
+permalink: /publication/2022-11-07-bs-architecture
+excerpt: '<p>[<a href="https://arxiv.org/abs/2210.15424" style="color:#51ADC8;">Paper</a>] - <a href="/publication/2022-11-07-bs-architecture" style="color:#51ADC8;">Abstract</a><br /><span style="font-family:Courier New">Citation</span>: Teven Le Scao, Thomas Wang, Daniel Hesslow, Lucile Saulnier, Stas Bekman, M Saiful Bari, Stella Biderman, Hady Elsahar, Niklas Muennighoff, Jason Phang, Ofir Press, Colin Raffel, Victor Sanh, Sheng Shen, Lintang Sutawika, Jaesung Tae, Zheng Xin Yong, Julien Launay, Iz Beltagy <u>What Language Model to Train if You Have One Million GPU Hours?</u>. <i>Findings of EMNLP 2022.</i></p>'
+date: 2022-11-07
+venue: 'Findings of EMNLP 2022'
+---
+
+The crystallization of modeling methods around the Transformer architecture has been a boon for practitioners. Simple, well-motivated architectural variations can transfer across tasks and scale, increasing the impact of modeling research. However, with the emergence of state-of-the-art 100B+ parameters models, large language models are increasingly expensive to accurately design and train. Notably, it can be difficult to evaluate how modeling decisions may impact emergent capabilities, given that these capabilities arise mainly from sheer scale alone. In the process of building BLOOM--the Big Science Large Open-science Open-access Multilingual language model--our goal is to identify an architecture and training setup that makes the best use of our 1,000,000 A100-GPU-hours budget. Specifically, we perform an ablation study at the billion-parameter scale comparing different modeling practices and their impact on zero-shot generalization. In addition, we study the impact of various popular pre-training corpora on zero-shot generalization. We also study the performance of a multilingual model and how it compares to the English-only one. Finally, we consider the scaling behaviour of Transformers to choose the target model size, shape, and training setup. All our models and code are open-sourced at https://huggingface.co/bigscience .
+[<a href="https://arxiv.org/abs/2210.15424" style="color:#51ADC8;">Paper</a>]
+
+<span style="font-family:Courier New">Citation</span>: Teven Le Scao, Thomas Wang, Daniel Hesslow, Lucile Saulnier, Stas Bekman, M Saiful Bari, Stella Biderman, Hady Elsahar, Niklas Muennighoff, Jason Phang, Ofir Press, Colin Raffel, Victor Sanh, Sheng Shen, Lintang Sutawika, Jaesung Tae, Zheng Xin Yong, Julien Launay, Iz Beltagy <u>What Language Model to Train if You Have One Million GPU Hours?</u>. <i>Findings of EMNLP 2022.</i> 
