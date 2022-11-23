@@ -3,7 +3,7 @@ title: "What Do NLP Researchers Believe? Results of the NLP Community Metasurvey
 collection: publications
 permalink: /publication/2202-08-26-nlp-survey
 excerpt: '<p>[<a href="https://arxiv.org/abs/2208.12852" style="color:#51ADC8;">Paper</a>] - <a href="/publication/2202-08-26-nlp-survey" style="color:#51ADC8;">Abstract</a><br /><span style="font-family:Courier New">Citation</span>: Julian Michael, Ari Holtzman, Alicia Parrish, Aaron Mueller, Alex Wang, Angelica Chen, Divyam Madaan, Nikita Nangia, Richard Yuanzhe Pang, Jason Phang, Samuel R. Bowman <u>What Do NLP Researchers Believe? Results of the NLP Community Metasurvey</u>. <i>Preprint.</i></p>'
-date: 2202-08-26
+date: 2022-08-26
 venue: 'Preprint'
 ---
 
