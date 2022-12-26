@@ -20,3 +20,13 @@ I am also a researcher at [EleutherAI](eleuther.ai/).
 Feel free to reach out to me via [Twitter](https://twitter.com/zhansheng).
 
 <meta name="google-site-verification" content="uMe0DjLQIFfwu_0BJLcQbRorbxQwt482yek2g1vUTXk" />
+
+<hr />
+
+<small>
+Unimportant note about my last name: My last name is 彭, which is *péng* in Mandarin pinyin. Because my father is of [Hakka](https://en.wikipedia.org/wiki/Hakka_people) descent, where 彭 is pronounced closer to "Pang" (rhymes with *sung*), it eventually got transliterated into "Phang". Because of more weird Singaporean history regarding Chinese name transliterations, my first name is in pinyin (*zhǎn shèng*), while my last name is not.
+
+As a result, my last name has been pronounced in the many variations of "fang", "pang", etc. (Don't worry, I'm used to it and it genuinely doesn't bother me. Foreign names are hard!) Also sometimes I get confused for being Vietnamese because of the similarity to the Vietnamese Phan/Pham/Phung/Phuong.  
+
+**tl;dr** The "H" in my last name is supposed to be silent, but I don't really mind which way you pronounce it. 
+</small>
