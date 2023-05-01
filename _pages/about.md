@@ -21,7 +21,7 @@ Feel free to reach out to me via [Twitter](https://twitter.com/zhansheng).
 
 <hr />
 
-While I am currently working out of New York, if you are a student or research in Singapore and interested in NLP research, I am always happy to chat! 
+While I am currently in New York, if you are a student or researcher in Singapore and interested in NLP research, I am always happy to chat! 
 
 <hr />
 
