@@ -227,6 +227,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
 #  # _talks
 #  - scope:
 #      path: ""
