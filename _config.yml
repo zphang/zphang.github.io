@@ -227,7 +227,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # posts
+  # _posts
   - scope:
       path: ""
       type: posts
