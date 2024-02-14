@@ -2,7 +2,7 @@
 title: "Two-Turn Debate Doesn't Help Humans Answer Hard Reading Comprehension Questions"
 collection: publications
 permalink: /publication/2022-10-19-two-turn-debate
-excerpt: '<p>[<a href="https://arxiv.org/abs/2210.10860" style="color:#51ADC8;">Paper</a>] - <a href="/publication/2022-10-19-two-turn-debate" style="color:#51ADC8;">Abstract</a><br /><span style="font-family:Courier New">Citation</span>:  Alicia Parrish, Harsh Trivedi, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Amanpreet Singh Saimbhi, Samuel R. Bowman <u>Two-Turn Debate Doesn't Help Humans Answer Hard Reading Comprehension Questions</u>. <i>Workshop on Machine Learning Safety, NeurIPS 2022.</i></p>'
+excerpt: "<p>[<a href='https://arxiv.org/abs/2210.10860' style='color:#51ADC8;'>Paper</a>] - <a href='/publication/2022-10-19-two-turn-debate' style='color:#51ADC8;'>Abstract</a><br /><span style='font-family:Courier New'>Citation</span>:  Alicia Parrish, Harsh Trivedi, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Amanpreet Singh Saimbhi, Samuel R. Bowman <u>Two-Turn Debate Doesn't Help Humans Answer Hard Reading Comprehension Questions</u>. <i>Workshop on Machine Learning Safety, NeurIPS 2022.</i></p>"
 date: 2022-10-19
 venue: 'Workshop on Machine Learning Safety, NeurIPS 2022'
 ---

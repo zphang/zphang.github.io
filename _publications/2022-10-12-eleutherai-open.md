@@ -1,5 +1,5 @@
 ---
-title: "EleutherAI: Going Beyond "Open Science" to "Science in the Open""
+title: 'EleutherAI: Going Beyond "Open Science" to "Science in the Open"'
 collection: publications
 permalink: /publication/2022-10-12-eleutherai-open
 excerpt: '<p>[<a href="https://arxiv.org/abs/2210.06413" style="color:#51ADC8;">Paper</a>] - <a href="/publication/2022-10-12-eleutherai-open" style="color:#51ADC8;">Abstract</a><br /><span style="font-family:Courier New">Citation</span>: Jason Phang, Herbie Bradley, Leo Gao, Louis Castricato, Stella Biderman <u>EleutherAI: Going Beyond "Open Science" to "Science in the Open"</u>. <i>Workshop on Broadening Research Collaborations in ML, NeurIPS 2022.</i></p>'
