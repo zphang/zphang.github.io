@@ -11,7 +11,7 @@ I am a researcher at OpenAI, working on the Policy Research team.
 
 In terms of my research interests, I primarily work on transfer learning and natural language understanding with large-scale language models.
 
-- In Spring 2024, I completed my PhD from the NYU Center for Data Science, where I was advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/).
+- In Spring 2024, I graduated with my PhD from the NYU Center for Data Science, where I was advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/).
 - I still maintain my affiliations with [EleutherAI](eleuther.ai/) as well as the [Alignment Research Group](https://wp.nyu.edu/arg/) at NYU.
 - I was previously a student researcher at Google Brain and a research intern at Google Translate, a research intern at Google Cloud AI, as well as an intern at Microsoft on the Cloud & AI team.
 - I graduated from the University of Chicago in 2015, where I majored in Mathematics, Statistics and Economics. I obtained my MS in Data Science at the NYU Center for Data Science in 2019.
