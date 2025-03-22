@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a researcher at OpenAI, working on the Policy Research team.
+I am a researcher at OpenAI, working in Safety Systems.
 
 In terms of my research interests, I primarily work on transfer learning and natural language understanding with large-scale language models.
 
